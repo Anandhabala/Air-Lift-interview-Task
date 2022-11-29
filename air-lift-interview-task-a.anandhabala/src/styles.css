@@ -1,0 +1,59 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+#productlabel {
+  color: gold;
+  font-weight: bold;
+  padding-right: 29%;
+}
+.productnamei {
+  color: #fffaf2;
+  background: #1b1a17;
+  width: 181px;
+  height: 25px;
+  padding-left: 0px;
+  font-weight: bolder;
+  border-style: groove;
+  border-color: #00f9ea;
+}
+.productcollection {
+  color: #fffaf2;
+  background: #1b1a17;
+  width: 81px;
+  height: 25px;
+  padding-left: 0px;
+  font-weight: bolder;
+  border-style: groove;
+  border-color: #00f9ea;
+}
+.productquantity {
+  color: #fffaf2;
+  background: #1b1a17;
+  width: 81px;
+  height: 25px;
+  padding-left: 0px;
+  font-weight: bolder;
+  border-style: groove;
+  border-color: #00f9ea;
+}
+.productinstruction {
+  color: #fffaf2;
+  background: #1b1a17;
+  width: 188px;
+  height: 54px;
+  padding-left: 0px;
+  font-weight: bolder;
+  border-style: groove;
+  border-color: #00f9ea;
+}
+#pic {
+  height: 80px;
+  width: 300px;
+}
+h2 {
+  color: whitesmoke;
+}
+h3 {
+  color: whitesmoke;
+}
